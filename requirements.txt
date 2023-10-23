@@ -1,0 +1,14 @@
+numpy
+gdal[numpy]==3.6.0
+requests
+pandas
+geopandas
+scipy
+git+https://github.com/carboncredits/yirgacheffe@22381ade2a7378621c95a0f23b2ecb546f1c608d
+
+# developement
+mypy
+pytest
+pylint
+pandas-stubs
+types-requests
