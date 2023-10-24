@@ -4,3 +4,6 @@ venv
 ml
 *.csv
 dune-project
+
+# Amazon
+results.json

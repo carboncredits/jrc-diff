@@ -1,0 +1,9 @@
+numpy
+gdal[numpy]<3.7
+requests
+pandas
+polars
+geopandas
+scipy
+matplotlib
+git+https://github.com/carboncredits/yirgacheffe@272e420b1579d40fad1a6090956f2e569b5353a3
